@@ -7,7 +7,7 @@
 - 👀 **_I’m passionate about exploring the endless possibilities of web development._**
 - 🌱 **_Currently learning and mastering the art of the MERN (MongoDB, Express.js, React.js, Node.js) stack._**
 - 💞️ **_Open to collaborating on projects that challenge and inspire creativity._**
-- 📫**_How to reach me: Connect on [LinkedIn](https://www.linkedin.com/in/raiyanrimon) or drop me an email at mgrrimon@gmail.com!_**
+- 📫 **_How to reach me: Connect on [LinkedIn](https://www.linkedin.com/in/raiyanrimon) or drop me an email at mgrrimon@gmail.com!_**
 
 ## Skills
 
