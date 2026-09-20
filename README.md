@@ -6,9 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=React+%26+Next.js+Frontend;Node.js+%26+NestJS+Backend;Complete+MERN+Application;n8n+%2B+LLM+Automations;From+Figma+to+Production" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/Dhaka%2C_Bangladesh-UTC%2B6-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Status-Available_for_freelance_%26_remote_work-2EA043?style=flat-square" alt="Status" />
-<img src="https://komarev.com/ghpvc/?username=raiyanrimon&style=flat-square&color=1F6FEB" alt="Profile views" />
+<p>
+  <img src="https://img.shields.io/badge/Noakhali%2C_Bangladesh-UTC%2B6-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_to_freelance_%26_remote_work-2EA043?style=flat-square" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=raiyanrimon&style=flat-square&color=1F6FEB" alt="Profile views" />
+</p>
 
 </div>
 
@@ -16,12 +18,10 @@
 
 ## 👨‍💻 About Me
 
-Entry-level title, real client work behind me. I build **React/Next.js frontends, Node.js/NestJS backends and complete MERN applications** — plus **n8n + LLM automations** that quietly save teams hours every week.
+I build **React/Next.js frontends, Node.js/NestJS backends and complete MERN applications** — plus **n8n + LLM automations** that quietly save teams hours every week. Real client work, shipped end to end: from the first Figma frame to the production deploy.
 
-
-
-- 🔭 I'm currently **freelancing** — full-stack products & AI automation for agencies and direct clients
-- 🌱 I'm currently **diving deeper** into TypeScript, NestJS architecture and production-grade LLM tooling
+- 🔭 Currently **freelancing** — full-stack products & AI automation for agencies and direct clients
+- 🌱 **Leveling up** on TypeScript, NestJS architecture and production-grade LLM tooling
 - 💬 Ask me about **the MERN stack, n8n workflows, or taking a project from idea to deployed**
 - 🌐 The full picture — selected work, experience, case studies — lives at **[raiyanrimon.vercel.app](https://raiyanrimon.vercel.app)**
 
@@ -87,9 +87,7 @@ Entry-level title, real client work behind me. I build **React/Next.js frontends
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=raiyanrimon&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=raiyanrimon&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -116,4 +114,4 @@ Entry-level title, real client work behind me. I build **React/Next.js frontends
   </a>
 </p>
 
-<p align="center"><em>Available for freelance & remote work · Dhaka, Bangladesh (UTC+6)</em></p>
+<p align="center"><em>Available for freelance & remote work · Noakhali, Bangladesh (UTC+6)</em></p>
